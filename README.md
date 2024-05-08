@@ -71,11 +71,7 @@ _Note: This process may take time; be patient. Once the server is provisioned, i
 3. Monitor the lifecycle progress by clicking on the Job ID.
 4. A new AWS MGN Service Conversion Server should be available in EC2.
 5. Test your application using the test instance's public IP.
-6. Once testing is complete, mark the source server as "ready for cutover."
-
-Certainly! Below is the continuation of the process for migrating a server using AWS MGN, including steps 8 and 9:
-
----
+6. Once testing is complete, mark the source server as "ready for cutover.
 
 ## Step 8: Launch Cutover Instance
 
@@ -90,7 +86,7 @@ Certainly! Below is the continuation of the process for migrating a server using
 ## Step 9: Archive the Replicated Server
 
 - Select the source server > Actions > Mark as archived.
-
+  
 ---
 
 Feel free to adjust the formatting or add any additional details specific to your project. Good luck with your AWS MGN migration! 🚀🌟
