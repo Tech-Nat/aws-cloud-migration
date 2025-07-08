@@ -86,10 +86,5 @@ _Note: This process may take time; be patient. Once the server is provisioned, i
 ## Step 9: Archive the Replicated Server
 
 - Select the source server > Actions > Mark as archived.
-  
----
-
-Feel free to adjust the formatting or add any additional details specific to your project. Good luck with your AWS MGN migration! 🚀🌟
-
 
 
